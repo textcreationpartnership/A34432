@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carnal prudence display'd, or, The crafty contrivances of the Jesuits relating to the popish plot discovered by way of letter from Gaunt to Mr. Willmore in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34432</idno>
+            <idno type="STC">Wing C604</idno>
+            <idno type="STC">ESTC R22951</idno>
+            <idno type="EEBO-CITATION">12746325</idno>
+            <idno type="OCLC">ocm 12746325</idno>
+            <idno type="VID">93256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 376:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carnal prudence display'd, or, The crafty contrivances of the Jesuits relating to the popish plot discovered by way of letter from Gaunt to Mr. Willmore in England.</title>
+                  <author>Ignatius Franciscus, Philo-presbyter.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Shirley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: Ignatius Franciscus, Philo-presbyter.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93256:1"/>
+            <pb facs="tcp:93256:1" rendition="simple:additions"/>
+            <p>
+               <hi>Carnal Prudence Diſplay'd:</hi> OR THE Crafty Contrivances OF THE JESUITS Relating to the POPISH PLOT, Diſcovered by way of LETTER from GAUNT TO Mr. Willmore IN ENGLAND.</p>
+            <q>
+               <p>
+                  <hi>Jam ſaturati eſtis, jam divites facti eſtis, ſine nobis regnatis.</hi>
+               </p>
+               <bibl>Ep. I<hi rend="sup">a</hi> Paull ad Cor. c. 4.</bibl>
+               <p>
+                  <hi>Qui Conveniunt in aliquo tertio, conveniunt interſe.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Shirley,</hi> under St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93256:2"/>
+            <pb n="3" facs="tcp:93256:2"/>
+            <head>Carnal Prudence Diſplay'd:</head>
+            <p>
+               <hi>WEE the Fathers of the Society now Convened at</hi> Gaunt, <hi>having been adviſed of your late Proceedings, thought it our Duty to expreſs our Cordial thanks to you on that Subject; we therefore deſire you to believe our whole Body in</hi> Flanders, <hi>as gratefully ſenſible of the laſt great ſervice you have done our common Cauſe, as any of our Brethren whom the Nighneſs of abode might have given the opportunity to prevent us in the like acknowledgment. And indeed we cannot ſufficiently admire and applaud the Chriſtian conſtancy of thoſe truly brave Jurors, who, in acquitting the Right Honorable Lord</hi> Shaftsbury, <hi>have aſſerted the Right and Property of Engliſhmen, as well in order to their Lives as Eſtates, in ſpight of all the damnable Projections and Machinations of thoſe Belials called</hi> Tories. <hi>Oh! memorable</hi> Ignoramus <hi>Jury, which well de<g ref="char:EOLhyphen"/>ſerves Inſcriptions on Monuments of everlaſting Marble! Now as our correſpondency with you has hitherto been under the Roſe, ſo we deſire that it may be ſtill; we keep all things of this Nature out of the cognizance of any of our Subs, and have reaſon to believe that you do the like: now to ſatisfie you, we will demonſtrate the poſſibility of ſetting our Horſes together, as you ſaid; nay, it ſhall be made out from your own Confeſſions. If you remember, you ſaid in your laſt Letter, That if it could be made to appear that our Principles as well in Religion as in Matters of State, did agree with yours, the Buſineſs would ſoon be at an end. To perform what I promiſed, I ſhall lay before you ſuch matter of fact concerning our Allegiance to Princes, and Obedience to Prelates; that if you are in your wits, you muſt needs confeſs, that all the difference betwixt us is</hi> de nomine, <hi>and not</hi> de re.</p>
+            <p>FIrſt then you muſt know, that having through our indefatigable Intrigues diſco<g ref="char:EOLhyphen"/>vered the Methods of the <hi>Romiſh</hi> Court, we new-molded our rule, ſo as it is now altogether agreeable to the Maxims by which they ſteer; inſomuch that they look on us, as the moſt neceſſary to carry on their Deſigns and Contrivances. In the beginning we were ſtrangely ſerviceable, and obedient to that degree that at length we carried all before us. Being come to a height of Power and Riches, we were courted by Kings and Princes, into whoſe Cabinets when we had humbly crept in, we ſo magni<g ref="char:EOLhyphen"/>fied to them the Pope's Power as well Temporal as Spiritual, and the influence it gave him upon the Subjects of Chriſtian Princes, that we ſoon brought them on their knees, and now ſo far prevail'd, that no Catholick Prince thinks himſelf ſecure without taking ſome of ours for their Confeſſor. Things now being by our unanimous endeavors brought to this pitch, you muſt conceive we have a double game to play; that is, we muſt keep in with Pope and Princes, a hard task you will ſay; and ſo it is. But however we have made a ſhift hitherto, to play this game, ay and ply it ſtill. To let you ſee this, you muſt know that whenever there's a Pope made of our Faction, then we make it our whole buſineſs to cry him up for a Saint, a learned and wiſe Pope, to repreſent him to each Prince as one who eſpouſes his (the Prince's) particular intereſt; by our inducement, it is ſuppos'd; which obliges him to acknowledge his ſence of the Service in glorious En<g ref="char:EOLhyphen"/>comiums of us to his Holineſs, by whom and the whole Court, we are therefore judg'd the fitteſt Spiritual Directors for Princes in the World, and conſequently the main Pil<g ref="char:EOLhyphen"/>lars of the Church. By this means, as our Employs are twofold, ſo are our Penſions double; for <hi>Janus</hi>-like, we have one face towards the Prince, and another regarding the Pope. Sirs, believe me, you cannot imagine in ſuch a game as this is, well play'd, how many occaſions there are to bring griſt to our Mill. Now on the other ſide, if it fall out that a Pope be choſen, who, though a holy and learned Man, yet, <hi>Si non pro nobis contra nos eſt,</hi> then what do we do? why we whiſper in the ears of our Penitents, and eſpecially of the Ladies, that 'tis much to be fear'd, that holy Father the Pope, is too
+<pb n="4" facs="tcp:93256:3"/>great a favourer of <hi>Janſeniſts</hi> and <hi>Blackloiſts,</hi> and ſuch-like Hetrodox men, and how they ought to pray all ſuch may be removed from his Holineſs, leſt being led away by theſe Wolves in Sheeps-skins, the Orthodox, meaning our ſelves mought be forgot, and Ca<g ref="char:EOLhyphen"/>tholicity left in a tottering condition: Now let the prejudice of Pope, Biſhops, and Cler<g ref="char:EOLhyphen"/>gy be never ſo great againſt us, all the devout Sex, both Nuns, devoted Women, and Lay-women will buoy up our ſanctity againſt them all: and for this intent we have par<g ref="char:EOLhyphen"/>ticular Prayers, Faſtings, Meditations, and Diſciplines. Sirs, in good truth you cannot imagine how devout the Women are at all this, and how they out-do even our ſelves in the performance of it: By this means many Proſelytes are got, and our fame is ſpread abroad in ſuch a nature, that in ſome Cities we Monopolize all the Faithful, except only the tagragg folks or rabble; who if they are ſo impudent to approach our Confeſ<g ref="char:EOLhyphen"/>ſion ſeats, we ſend them back with a powder to their Pariſh Churches, and if they argue the caſe, we tell them it is their Chriſtian Duty; but after all this, if ſome one of them be found ſo wiſe, as to diſtinguiſh, then we admit him, rather than he ſhould inſtruct the Rabble againſt us; and truly it is a great matter for a Community, whoſe aim is at governing the whole, to have the Rabble on their ſide, eſpecially when <hi>ad majorem Dei Gloriam,</hi> it will be neceſſary for the carrying on the Cauſe to lay any one aſide on point of good Name or Life, according to the gravity of the Sin committed againſt the ſaid Community; beſides this, 'tis very advantagious to have their good word, were it only up<g ref="char:EOLhyphen"/>on the account of the reſpect paid us by Children &amp; old Women in asking our Bleſſings, and in putting off their Hats, and ſuch like honorary worſhip paid to our Reverences: all this does undoubtedly diſtinguiſh us from all other Prieſts or Religious, who, though they may have the ſimplicity of the Dove, yet they fall ſhort of us in the prudence of the Serpent, becauſe they are ſo ſilly, as not to know how to reconcile them; the rea<g ref="char:EOLhyphen"/>ſon is, becauſe they underſtand Religion, but not Government, and conſequently they are ignorant, how ſometimes <hi>Prudentia carnis</hi> is meant by <hi>Prudentia ſerpentis,</hi> or that they are identified. But after this, If the Pope be ſuch an one as the preſent <hi>Innocent</hi> 11. is, <hi>Viz.</hi> Laying us aſide, condemning many of our Propoſitions, and ſodality Prayers to the Virgin <hi>Mary;</hi> yet we keep fair ſtill as to the Exteriors, but under-hand we cut him out work enough; for at this time we have ſet one of the moſt powerful of all our Kings upon his back, in revenge to his prejudice againſt us, and although he has a mind to deſtroy our Order, yet he dares not attempt it. The reaſons are, for that all our Brother Jeſuits out of <hi>France</hi> remonſtrate daily how they are concerned to ſee their <hi>French</hi> Brethren violating their moſt ſacred fourth Vow, by adhering to their King againſt his Holineſs in the concern of the <hi>Regalis;</hi> and they hope that he, his Holineſs will not puniſh the innocent for the faults of a few, that they are ready to ſtand by his Holineſs with all their Power and Intereſt with other Princes; That the Jeſuits of <hi>France,</hi> as well as the reſt of Catholicks there, never were eſteem'd right for the In<g ref="char:EOLhyphen"/>tereſt of the holy See: and a Hundred ſuch reaſons as theſe, do they bring to amuſe his Holineſs from day to day, till he has ſpun out the thread of his ſhort life. Then ſhall the Jeſuits of <hi>France</hi> club again their Intereſt with all their foreign Brethren, and bring along with them their powerful <hi>French</hi> King to ſet up another Pope, who under pretence of the <hi>French</hi> Faction, ſhall quell the diſpute concerning the <hi>Regalis,</hi> and the King in reality ſhall be <hi>in ſtatu quo prius:</hi> then, I ſay, ſhall all Suſpenſions and Excom<g ref="char:EOLhyphen"/>munications be taken off from ſome of our <hi>French</hi> Brethren, and from thoſe they have engaged in the diſpute; and probably, nay, we have a moral certainty, that his New Holineſs will for his own quiet-ſake make uſe of ours. Then I pray, what advanta<g ref="char:EOLhyphen"/>ges of Church and State will accrue to our Order, which through our prudential Morals growing greater and greater, will in the long run gull both Church and State, and then Good-night to Popes and Kings who will not be directed by us. Another Objection in your laſt was, That we allowed of Biſhops, which was contrary to the Presbyterian In<g ref="char:EOLhyphen"/>ſtitution; we allow of them tacitly in thoſe Countries where we cannot pull them down we grant: we allow of them judiciouſly where we have Power to obſtruct them; 'tis denyed. For inſtance of this great truth in King <hi>James</hi> his days, when His Majeſty treated with <hi>Spain</hi> to Marry <hi>Charles</hi> the Firſt to the <hi>Infanta;</hi> the <hi>Tory</hi> Papiſts (as we will believe) inform'd the Court of <hi>Rome,</hi> that the ſaid King was diſpoſed to a tacite Liberty of Conſcience, and that it would be neceſſary to give them a Biſhop; whereupon a <hi>Tory</hi> Biſhop was made whoſe name was <hi>Smith;</hi> he came into <hi>England</hi> with his Com<g ref="char:EOLhyphen"/>miſſion of <hi>totius Angliae &amp; Scotiae Ordinarius.</hi> He was reverenced by all of his Faction, inſomuch that had he continued, all we Presbyterians of the Society, muſt have truckled to him, to the loſs of our liberty, profit, and power, ſo as to have been ſubject to every <hi>Tory</hi> Prieſt whom that Anti-Presbyterian Biſhop would have ſet over us. In this con<g ref="char:EOLhyphen"/>juncture, we not able to brook one man's Lording it over the reſt, Convened, and it
+<pb n="5" facs="tcp:93256:3"/>was Reſolved with a <hi>Nemine,</hi> &amp;c. That there muſt be an Aſſociation of Catholicks (leaving out the words Jeſuits or Presbyterians, to carry on the Contrivance more Plauſibly) in order to the oppoſing this burdenſom <hi>Tory</hi> Prelateſhip. This was no ſooner reſolved, then our Emiſſaries flew abroad like lightning, to tell all the Wives and leading Women, that it was known that a Catholick Biſhop was come into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that if he were not perſuaded to retreat beyond Seas, the Proteſtants would be alarm'd, and a dreadful and moſt diſmal Storm would fall upon us all; and in fine, that we ſhould be ruin'd to all intents and purpoſes. Theſe and ſuch-like Arguments we made uſe of to bugbear the puſillanimous; but a Pox on't, it would not do; their puny <hi>Tory</hi> Souls, were overſway'd by Obedience to that thing call'd Prelacy. We Convened a ſecond time, and romaging up our Morals of Prudence, we at length found out an expedient that would do, which was this, we peruſed a Catalogue which we had of Proteſtant Biſhops; and amongſt them we pitch't upon the Biſhop of <hi>Lincoln,</hi> who was in thoſe days the greateſt ſtickler for the <hi>Tory</hi> Proteſtancy. Then we con<g ref="char:EOLhyphen"/>ſulted whether a Member or Dependent of our Society ſhould acquaint this Biſhop, that one <hi>Smith</hi> a Popiſh titular Biſhop was come into <hi>England,</hi> with a pretended Power over <hi>England</hi> and <hi>Scotland.</hi> And it was Voted with a <hi>Nemine</hi> and a Member; for that it was a concern too weighty for a Lay-man to be intruſted withal. Then was a moſt prudent Member ſingled out and Commiſſion'd for this great work, and ordered to go immediately to <hi>Lincoln,</hi> and acquaint the Biſhop as aforeſaid; it was indeed thought convenient he ſhould not take any notice of his quality as then to the Biſhop; but it's probable he might have known ſhortly after who he was obliged to for the Intel<g ref="char:EOLhyphen"/>ligence. However his Lordſhip immediately Poſts to <hi>London,</hi> and acquaints His Ma<g ref="char:EOLhyphen"/>jeſty with what had hap'ned, and repreſents to him at large, that His Majeſty had better break off the Match with <hi>Spain,</hi> then that the Papiſts ſhould gain ſuch advantages which mought capacitate them to deſtroy the Proteſtant Religion. The King reply'd, That he knew nothing of a Popiſh Biſhop, nor did he intend any more but a connivancy. The <hi>Spaniſh</hi> Ambaſſador was ſent for immediately, and ordered forthwith to acquaint his Maſter, That if the Pope did not ceaſe to ſend Biſhops hither, he would break off the Match. The King of <hi>Spain</hi> hearing this, ſent away one in Poſt haſt to acquaint the Pope with what had paſt, and how prejudicial his Holineſs's proceeding were to the Crown; The Pope made anſwer, That nothing of all this was repreſented to him, for he had made <hi>Smith</hi> a Biſhop, before ever the leaſt mention was made to him of any ſuch Treaty betwixt <hi>England</hi> and <hi>Spain;</hi> and that he was ſo far from ſending others, that he never intended more than one, there being neither Maintenance nor Buſineſs for more, and if he thought this one would have cauſed any diſturbance, and thereby become prejudicial to Roman Catholicks, he would have deſiſted. Now you may ob<g ref="char:EOLhyphen"/>ject that we did not ſtate the Story right. It's true we did not: and we muſt tell you that in ſo doing we agree with you, for you know full well that men of our Prin<g ref="char:EOLhyphen"/>ciples muſt ſtate Matters ſo, as to procure our ends; for, as the <hi>Tory</hi> Prelate ſaid, If we had been ſincere, we could never have routed him; which, by our prudent manage<g ref="char:EOLhyphen"/>ment, was effected.</p>
+            <p>Now worthy Gentlemen, Pray tell us if we are inferiour to your ſelves for Presby<g ref="char:EOLhyphen"/>terianiſm? Verily Brethren, we are of the Opinion that in reality there is none, and to let you ſee that there is not, let us moſt critically examine each others Motto. <hi>Ad majorem Dei Gloriam,</hi> is ours; <hi>The Good old Cauſe,</hi> is yours. Pray what can be meant by Good old Cauſe, but God's good Cauſe? and what difference is there betwixt God's Good Cauſe, and the Glory of God; ſince to advance God's Cauſe, is to advance his Glory? ſo now you ſee that there is no ſubſtantial difference betwixt us. Another Objection of yours was, That though we were Presbyterians, yet we were Papiſt-Presbyterians, and conſequently as ſuch there would neceſſarily be ſome <hi>Je ne ſcay quoy,</hi> of that thing call'd Loyalty inherent to the Presbyterian, which inſtead of bearing up the Cauſe, it would ſling it down, and ſuch a one you call Presbyterian in Maſquerade; we muſt confeſs this is notably and prudently argued, you are ſatisfy'd then that we are Presbyterians; but you are afraid that a Pope ſhould lurk in the Belly of ſuch Pres<g ref="char:EOLhyphen"/>byters: To let you ſee that you ought not hereafter to entertain ſuch Fears and Jea<g ref="char:EOLhyphen"/>louſies of your Brethren would-be, We adhere to the Pope ſometimes for intereſt, other times we oppoſe the Pope for intereſt, as is clearly demonſtrated in the precedent diſ<g ref="char:EOLhyphen"/>courſe; ſo that in reality we are neither for Pope nor King. Do not you do the like when you cry, God bleſs the King, and Preſerve him from his Enemies? when you de<g ref="char:EOLhyphen"/>ſire that the Militia ſhould be put into your hands, to defend the ſacred Perſon of His Majeſty, and the Proteſtant Religion as Eſtabliſht by Law. I ſay, in reality at the ſame time, do you not uſe our excellent mental Reſervations, Reſtrictions and Equi<g ref="char:EOLhyphen"/>vocations,
+<pb n="6" facs="tcp:93256:4"/>when you intend to ſecure all for your ſelves, which once compaſs'd, the Monarchy and the eſtabliſht Religion muſt be deſtroyed, as incompatible with your Principles, which are for holy Common-weals? So you ſee<g ref="char:punc">▪</g> though you court the King, and magnifie the Religion eſtabliſht, you are in effect for neither. Now I think I have fully anſwered you with an Argument <hi>ad hominem.</hi> But to ſhow the Parallel fur<g ref="char:EOLhyphen"/>ther, you brand Church of <hi>England</hi>-Men with Popery, and in the Fools coat of Papiſts in Maſquerade, expoſe them to the ſcorn and averſion of the Rabble. We do the like, calling all Anti-Jeſuits (who are indeed of the eſtabliſht Catholick Church) Janſeniſts and Blackloiſts, names as odious and ſuſpect to our Party, which we call the true Chil<g ref="char:EOLhyphen"/>dren of the Church, as Heathen and Publican: Do we not deterr all from taking the Oath of Allegiance, without giving any one a reaſon for it? But <hi>inter nos,</hi> we hold that in ſome Caſes a King may forfeit his Crown, ſometimes to the Pope, when he gives us good Penſions for teaching that Doctrine. Some of the <hi>Tory</hi> Papiſts have diſcover<g ref="char:EOLhyphen"/>ed theſe reaſons, but we deny them ſtoutly for all that: we have more reaſons yet be<g ref="char:EOLhyphen"/>ſides theſe which we never yet diſcovered to any but to thoſe who believed ſtrongly and with an implicit faith that our Presbyterian Society is infallible in its Chriſtian Princi<g ref="char:EOLhyphen"/>ples. Therefore it is for your entire ſatisfaction that we keep nothing hid from you. We do verily, and indeed alſo believe, as a conſequence from our infallible Principles, That a wicked King breaking God's Holy Covenant, may by holy Commonweal-men be depos'd, for that the Spirit of the Lord is departed from him, and that he is no more Anointed; and by conſequence no King. Our <hi>Mariana</hi> and others have taught this Doctrine with this difference only, that the Power of depoſing was in the Pope, and not in holy Commonweal-men; but the reaſon was; that he and the reſt were great Pope-Penſioners. Had they lived in our circumſtances, they would have aſſerted the ſame circumſtantial Doctrine with us, eſpecially having laid the foundation of it in their infallible Principles. We cannot now imagine what further objection you can make; if ſo, I know no reaſon why we ſhould not clubb together, for undoubtedly if we do, we ſhall go a great way in a little time. It may be for all that, you make ano<g ref="char:EOLhyphen"/>ther Objection, <hi>viz.</hi> We being ſuch unheard-of ſticklers in carrying on our own Con<g ref="char:EOLhyphen"/>trivances, that there may be fallings out about the chief Places in the Common-weal. To rid you of that ſcruple, how comes it to paſs, that you are united amongſt your ſelves? I anſwer, becauſe your Principles are alike; for the ſame reaſon, as I have already made out, we muſt neceſſarily agree with you. O but you may argue again That you are old ſtanders in the Cauſe, and have already taken great pains in laying Platforms of Government againſt the firſt day of the Golden Age, and with great la<g ref="char:EOLhyphen"/>bours and indefatigable induſtry have brought things to this height, as that you dare in the face of the Sun, contrary to the known practices of the Land in all times bring in a Bill <hi>Ignoramus</hi> in ſpight of King, Council, and Judges, nay, and Lord Maior himſelf, whatſoever, and how many ſoever the Witneſſes are; and I think this no ſmall Point to carry on the Good old Cauſe. Verily, 'tis true what you ſay, and is but what we have already prais'd you for; and will for ever admire and honour you, as in this being the true lights to all ſolid Reformation. But leſt you ſhould ſtill apprehend our Presby<g ref="char:EOLhyphen"/>terian Society, by reaſon only of its coming in late, we unanimouſly declare unto you, That we will have no ſhare in the Temporals of the Government, but only Spi<g ref="char:EOLhyphen"/>rituals, for you know no Government can ſtand where there is not eſtabliſht Religion by Law. If you conſent to this, and admit the coupling our Presbyterian Societies, I know not what Power on the Earth can reſiſt ſuch Principled men as we all are. Pray Sir, remember our hearty Services to the <hi>Ignoramus</hi> Jurors. We expect your Anſwer to this unanimous Declaration of our Minds, as ſoon as poſſible, whereby we may know what to truſt to. We do not at all doubt but we ſhall have free admittance into your Clubb, whereby to become one Heart, one Mouth, one Man to carry on <hi>The Good old Cauſe</hi> of God once again, <hi>for his greater Honour and Glory.</hi>
+            </p>
+            <closer>
+               <dateline>From our Aſſembly at <hi>Gaunt,</hi> 
+                  <date>March 1ſt. 1682.</date>
+               </dateline>
+               <signed>Worthy Sir, Your moſt hearty and truly devoted humble Servant
+<hi>Ignatius Franciſcus Philo-Presbyter.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93256:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
